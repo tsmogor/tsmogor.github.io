@@ -1,0 +1,56 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+	  {"properties" : { "Number_of_Vehicles" : 1, "Light_Conditions" : 4, "Time" : "0:23:35", "Local_Authority_(Highway)" : "E09000020", "Longitude" : -0.194258, "Road_Type" : 6, "Accident_Severity" : 3, "Location_Easting_OSGR" : 525410, "Weather_Conditions" : 1, "Date" : "04/02/2005", "Urban_or_Rural_Area" : true, "1st_Road_Number" : 402, "Special_Conditions_at_Site" : 0, "Pedestrian_Crossing-Human_Control" : false, "Location_Northing_OSGR" : 180490, "Did_Police_Officer_Attend_Scene_of_Accident" : 1, "Junction_Detail" : 6, "Road_Surface_Conditions" : 1, "1st_Road_Class" : 3, "2nd_Road_Class" : 3, "Latitude" : 51.509377, "Number_of_Casualties" : 1, "Local_Authority_(District)" : 12, "LSOA_of_Accident_Location" : "E01002827", "2nd_Road_Number" : 4204, "Carriageway_Hazards" : 0, "Accident_Index" : "200501BS70013", "Junction_Control" : 2, "Day_of_Week" : 6, "Speed_limit" : 30, "Police_Force" : true, "Pedestrian_Crossing-Physical_Facilities" : 5 }, "geometry" : { "coordinates" : [ -0.194258, 51.509377 ], "type" : "Point" }, "type" : "Feature" },
+	  {"properties" : { "Number_of_Vehicles" : 2, "Light_Conditions" : 4, "Time" : "0:01:05", "Local_Authority_(Highway)" : "E09000020", "Longitude" : -0.194258, "Road_Type" : 6, "Accident_Severity" : 3, "Location_Easting_OSGR" : 525410, "Weather_Conditions" : 1, "Date" : "06/03/2005", "Urban_or_Rural_Area" : true, "1st_Road_Number" : 402, "Special_Conditions_at_Site" : 0, "Pedestrian_Crossing-Human_Control" : false, "Location_Northing_OSGR" : 180490, "Did_Police_Officer_Attend_Scene_of_Accident" : 1, "Junction_Detail" : 6, "Road_Surface_Conditions" : 1, "1st_Road_Class" : 3, "2nd_Road_Class" : 3, "Latitude" : 51.509377, "Number_of_Casualties" : 1, "Local_Authority_(District)" : 12, "LSOA_of_Accident_Location" : "E01002827", "2nd_Road_Number" : 4204, "Carriageway_Hazards" : 0, "Accident_Index" : "200501BS70076", "Junction_Control" : 2, "Day_of_Week" : 1, "Speed_limit" : 30, "Police_Force" : true, "Pedestrian_Crossing-Physical_Facilities" : 0 }, "geometry" : { "coordinates" : [ -0.194258, 51.509377 ], "type" : "Point" }, "type" : "Feature" },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -0.2158641815185547,
+            51.50478916217527
+          ],
+          [
+            -0.2117443084716797,
+            51.505630602014904
+          ],
+          [
+            -0.20809650421142578,
+            51.506485382132446
+          ],
+          [
+            -0.20341873168945312,
+            51.50782094396447
+          ],
+          [
+            -0.20058631896972656,
+            51.50863561745838
+          ],
+          [
+            -0.1980757713317871,
+            51.50878252424312
+          ],
+        [
+          -0.194258,
+          51.509377
+        ],
+          [
+            -0.19380569458007812,
+            51.50955711581998
+          ],
+          [
+            -0.1920676231384277,
+            51.509904342251964
+          ],
+          [
+            -0.19084453582763672,
+            51.5100245354003
+          ]
+        ]
+      }
+    }
+  ]
+}

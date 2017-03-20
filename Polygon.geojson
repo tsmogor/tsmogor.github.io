@@ -1,0 +1,224 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+{"properties" : { "Number_of_Vehicles" : 1, "Light_Conditions" : 1, "Time" : "0:13:55", "Local_Authority_(Highway)" : "E09000033", "Longitude" : -0.16229, "Road_Type" : 6, 
+
+"Accident_Severity" : 3, "Location_Easting_OSGR" : 527650, "Weather_Conditions" : 1, "Date" : "20/02/2005", "Urban_or_Rural_Area" : true, "1st_Road_Number" : 315, 
+
+"Special_Conditions_at_Site" : 0, "Pedestrian_Crossing-Human_Control" : false, "Location_Northing_OSGR" : 179680, "Did_Police_Officer_Attend_Scene_of_Accident" : 1, "Junction_Detail" : 0, 
+
+"Road_Surface_Conditions" : 1, "1st_Road_Class" : 3, "2nd_Road_Class" : -1, "Latitude" : 51.501596, "Number_of_Casualties" : 2, "Local_Authority_(District)" : 1, 
+
+"LSOA_of_Accident_Location" : "E01004689", "2nd_Road_Number" : 0, "Carriageway_Hazards" : 0, "Accident_Index" : "200501BS70041", "Junction_Control" : -1, "Day_of_Week" : 1, "Speed_limit" : 
+
+30, "Police_Force" : true, "Pedestrian_Crossing-Physical_Facilities" : 4 }, "geometry" : { "coordinates" : [ -0.16229, 51.501596 ], "type" : "Point" }, "type" : "Feature" },
+{"properties" : { "Number_of_Vehicles" : 1, "Light_Conditions" : 1, "Time" : "0:17:35", "Local_Authority_(Highway)" : "E09000020", "Longitude" : -0.187623, "Road_Type" : 3, 
+
+"Accident_Severity" : 3, "Location_Easting_OSGR" : 525890, "Weather_Conditions" : 1, "Date" : "14/01/2005", "Urban_or_Rural_Area" : true, "1st_Road_Number" : 315, 
+
+"Special_Conditions_at_Site" : 0, "Pedestrian_Crossing-Human_Control" : false, "Location_Northing_OSGR" : 179710, "Did_Police_Officer_Attend_Scene_of_Accident" : 1, "Junction_Detail" : 0, 
+
+"Road_Surface_Conditions" : 1, "1st_Road_Class" : 3, "2nd_Road_Class" : -1, "Latitude" : 51.50226, "Number_of_Casualties" : 2, "Local_Authority_(District)" : 12, 
+
+"LSOA_of_Accident_Location" : "E01002889", "2nd_Road_Number" : 0, "Carriageway_Hazards" : 0, "Accident_Index" : "200501BS00009", "Junction_Control" : -1, "Day_of_Week" : 6, "Speed_limit" : 
+
+30, "Police_Force" : true, "Pedestrian_Crossing-Physical_Facilities" : 0 }, "geometry" : { "coordinates" : [ -0.187623, 51.50226 ], "type" : "Point" }, "type" : "Feature" },
+{"properties" : { "Number_of_Vehicles" : 2, "Light_Conditions" : 4, "Time" : "0:19:30", "Local_Authority_(Highway)" : "E09000033", "Longitude" : -0.180455, "Road_Type" : 6, 
+
+"Accident_Severity" : 3, "Location_Easting_OSGR" : 526390, "Weather_Conditions" : 3, "Date" : "28/02/2005", "Urban_or_Rural_Area" : true, "1st_Road_Number" : 315, 
+
+"Special_Conditions_at_Site" : 0, "Pedestrian_Crossing-Human_Control" : false, "Location_Northing_OSGR" : 179620, "Did_Police_Officer_Attend_Scene_of_Accident" : 1, "Junction_Detail" : 3, 
+
+"Road_Surface_Conditions" : 2, "1st_Road_Class" : 3, "2nd_Road_Class" : 5, "Latitude" : 51.50134, "Number_of_Casualties" : 1, "Local_Authority_(District)" : 1, "LSOA_of_Accident_Location" 
+
+: "E01002891", "2nd_Road_Number" : 0, "Carriageway_Hazards" : 0, "Accident_Index" : "200501BS70060", "Junction_Control" : 4, "Day_of_Week" : 2, "Speed_limit" : 30, "Police_Force" : true, 
+
+"Pedestrian_Crossing-Physical_Facilities" : 5 }, "geometry" : { "coordinates" : [ -0.180455, 51.50134 ], "type" : "Point" }, "type" : "Feature" },
+{"properties" : { "Number_of_Vehicles" : 1, "Light_Conditions" : 1, "Time" : "0:16:05", "Local_Authority_(Highway)" : "E09000020", "Longitude" : -0.190229, "Road_Type" : 6, 
+
+"Accident_Severity" : 3, "Location_Easting_OSGR" : 525710, "Weather_Conditions" : 1, "Date" : "15/02/2005", "Urban_or_Rural_Area" : true, "1st_Road_Number" : 0, 
+
+"Special_Conditions_at_Site" : 0, "Pedestrian_Crossing-Human_Control" : false, "Location_Northing_OSGR" : 179670, "Did_Police_Officer_Attend_Scene_of_Accident" : 1, "Junction_Detail" : 3, 
+
+"Road_Surface_Conditions" : 1, "1st_Road_Class" : 6, "2nd_Road_Class" : 3, "Latitude" : 51.501941, "Number_of_Casualties" : 1, "Local_Authority_(District)" : 12, 
+
+"LSOA_of_Accident_Location" : "E01002889", "2nd_Road_Number" : 315, "Carriageway_Hazards" : 0, "Accident_Index" : "200501BS70032", "Junction_Control" : 4, "Day_of_Week" : 3, "Speed_limit" 
+
+: 30, "Police_Force" : true, "Pedestrian_Crossing-Physical_Facilities" : 0 }, "geometry" : { "coordinates" : [ -0.190229, 51.501941 ], "type" : "Point" }, "type" : "Feature" },
+{"properties" : { "Number_of_Vehicles" : 2, "Light_Conditions" : 1, "Time" : "0:08:20", "Local_Authority_(Highway)" : "E09000020", "Longitude" : -0.188058, "Road_Type" : 6, 
+
+"Accident_Severity" : 3, "Location_Easting_OSGR" : 525860, "Weather_Conditions" : 1, "Date" : "16/02/2005", "Urban_or_Rural_Area" : true, "1st_Road_Number" : 315, 
+
+"Special_Conditions_at_Site" : 0, "Pedestrian_Crossing-Human_Control" : false, "Location_Northing_OSGR" : 179700, "Did_Police_Officer_Attend_Scene_of_Accident" : 1, "Junction_Detail" : 0, 
+
+"Road_Surface_Conditions" : 1, "1st_Road_Class" : 3, "2nd_Road_Class" : -1, "Latitude" : 51.502177, "Number_of_Casualties" : 1, "Local_Authority_(District)" : 12, 
+
+"LSOA_of_Accident_Location" : "E01002889", "2nd_Road_Number" : 0, "Carriageway_Hazards" : 0, "Accident_Index" : "200501BS70018", "Junction_Control" : -1, "Day_of_Week" : 4, "Speed_limit" : 
+
+30, "Police_Force" : true, "Pedestrian_Crossing-Physical_Facilities" : 0 }, "geometry" : { "coordinates" : [ -0.188058, 51.502177 ], "type" : "Point" }, "type" : "Feature" },
+{"properties" : { "Number_of_Vehicles" : 3, "Light_Conditions" : 4, "Time" : "0:19:00", "Local_Authority_(Highway)" : "E09000020", "Longitude" : -0.195421, "Road_Type" : 2, 
+
+"Accident_Severity" : 3, "Location_Easting_OSGR" : 525330, "Weather_Conditions" : 1, "Date" : "23/02/2005", "Urban_or_Rural_Area" : true, "1st_Road_Number" : 402, 
+
+"Special_Conditions_at_Site" : 0, "Pedestrian_Crossing-Human_Control" : false, "Location_Northing_OSGR" : 180460, "Did_Police_Officer_Attend_Scene_of_Accident" : 1, "Junction_Detail" : 3, 
+
+"Road_Surface_Conditions" : 1, "1st_Road_Class" : 3, "2nd_Road_Class" : 3, "Latitude" : 51.509125, "Number_of_Casualties" : 1, "Local_Authority_(District)" : 12, 
+
+"LSOA_of_Accident_Location" : "E01002827", "2nd_Road_Number" : 4204, "Carriageway_Hazards" : 0, "Accident_Index" : "200501BS70050", "Junction_Control" : 4, "Day_of_Week" : 4, "Speed_limit" 
+
+: 30, "Police_Force" : true, "Pedestrian_Crossing-Physical_Facilities" : 5 }, "geometry" : { "coordinates" : [ -0.195421, 51.509125 ], "type" : "Point" }, "type" : "Feature" },
+{"properties" : { "Number_of_Vehicles" : 3, "Light_Conditions" : 1, "Time" : "0:15:35", "Local_Authority_(Highway)" : "E09000020", "Longitude" : -0.194905, "Road_Type" : 6, 
+
+"Accident_Severity" : 3, "Location_Easting_OSGR" : 525370, "Weather_Conditions" : 1, "Date" : "09/03/2005", "Urban_or_Rural_Area" : true, "1st_Road_Number" : 4204, 
+
+"Special_Conditions_at_Site" : 0, "Pedestrian_Crossing-Human_Control" : false, "Location_Northing_OSGR" : 180290, "Did_Police_Officer_Attend_Scene_of_Accident" : 1, "Junction_Detail" : 3, 
+
+"Road_Surface_Conditions" : 1, "1st_Road_Class" : 3, "2nd_Road_Class" : 6, "Latitude" : 51.507588, "Number_of_Casualties" : 2, "Local_Authority_(District)" : 12, 
+
+"LSOA_of_Accident_Location" : "E01002827", "2nd_Road_Number" : 0, "Carriageway_Hazards" : 0, "Accident_Index" : "200501BS70080", "Junction_Control" : 4, "Day_of_Week" : 4, "Speed_limit" : 
+
+30, "Police_Force" : true, "Pedestrian_Crossing-Physical_Facilities" : 1 }, "geometry" : { "coordinates" : [ -0.194905, 51.507588 ], "type" : "Point" }, "type" : "Feature" },
+{"properties" : { "Number_of_Vehicles" : 1, "Light_Conditions" : 4, "Time" : "0:23:35", "Local_Authority_(Highway)" : "E09000020", "Longitude" : -0.194258, "Road_Type" : 6, 
+
+"Accident_Severity" : 3, "Location_Easting_OSGR" : 525410, "Weather_Conditions" : 1, "Date" : "04/02/2005", "Urban_or_Rural_Area" : true, "1st_Road_Number" : 402, 
+
+"Special_Conditions_at_Site" : 0, "Pedestrian_Crossing-Human_Control" : false, "Location_Northing_OSGR" : 180490, "Did_Police_Officer_Attend_Scene_of_Accident" : 1, "Junction_Detail" : 6, 
+
+"Road_Surface_Conditions" : 1, "1st_Road_Class" : 3, "2nd_Road_Class" : 3, "Latitude" : 51.509377, "Number_of_Casualties" : 1, "Local_Authority_(District)" : 12, 
+
+"LSOA_of_Accident_Location" : "E01002827", "2nd_Road_Number" : 4204, "Carriageway_Hazards" : 0, "Accident_Index" : "200501BS70013", "Junction_Control" : 2, "Day_of_Week" : 6, "Speed_limit" 
+
+: 30, "Police_Force" : true, "Pedestrian_Crossing-Physical_Facilities" : 5 }, "geometry" : { "coordinates" : [ -0.194258, 51.509377 ], "type" : "Point" }, "type" : "Feature" },
+{"properties" : { "Number_of_Vehicles" : 2, "Light_Conditions" : 4, "Time" : "0:01:05", "Local_Authority_(Highway)" : "E09000020", "Longitude" : -0.194258, "Road_Type" : 6, 
+
+"Accident_Severity" : 3, "Location_Easting_OSGR" : 525410, "Weather_Conditions" : 1, "Date" : "06/03/2005", "Urban_or_Rural_Area" : true, "1st_Road_Number" : 402, 
+
+"Special_Conditions_at_Site" : 0, "Pedestrian_Crossing-Human_Control" : false, "Location_Northing_OSGR" : 180490, "Did_Police_Officer_Attend_Scene_of_Accident" : 1, "Junction_Detail" : 6, 
+
+"Road_Surface_Conditions" : 1, "1st_Road_Class" : 3, "2nd_Road_Class" : 3, "Latitude" : 51.509377, "Number_of_Casualties" : 1, "Local_Authority_(District)" : 12, 
+
+"LSOA_of_Accident_Location" : "E01002827", "2nd_Road_Number" : 4204, "Carriageway_Hazards" : 0, "Accident_Index" : "200501BS70076", "Junction_Control" : 2, "Day_of_Week" : 1, "Speed_limit" 
+
+: 30, "Police_Force" : true, "Pedestrian_Crossing-Physical_Facilities" : 0 }, "geometry" : { "coordinates" : [ -0.194258, 51.509377 ], "type" : "Point" }, "type" : "Feature" },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.15840053558349607,
+              51.51363018240385
+            ],
+            [
+              -0.16376495361328125,
+              51.51309603048481
+            ],
+            [
+              -0.17363548278808594,
+              51.51218795784791
+            ],
+            [
+              -0.18187522888183594,
+              51.51090594213255
+            ],
+            [
+              -0.18573760986328125,
+              51.51063885098415
+            ],
+            [
+              -0.19170284271240232,
+              51.51021150188967
+            ],
+            [
+              -0.19586563110351562,
+              51.50959718054333
+            ],
+            [
+              -0.1956939697265625,
+              51.50898285091343
+            ],
+            [
+              -0.19535064697265625,
+              51.50743363506349
+            ],
+            [
+              -0.19466400146484375,
+              51.5054035483508
+            ],
+            [
+              -0.19380569458007812,
+              51.504174767715845
+            ],
+            [
+              -0.1926898956298828,
+              51.503907637106174
+            ],
+            [
+              -0.19153118133544922,
+              51.501984250488896
+            ],
+            [
+              -0.19071578979492188,
+              51.501823964606395
+            ],
+            [
+              -0.18844127655029297,
+              51.50211782162702
+            ],
+            [
+              -0.18118858337402344,
+              51.501262959578035
+            ],
+            [
+              -0.17711162567138672,
+              51.501396532830235
+            ],
+            [
+              -0.16016006469726562,
+              51.501556820216095
+            ],
+            [
+              -0.15732765197753906,
+              51.50203767899114
+            ],
+            [
+              -0.1526927947998047,
+              51.502732243819835
+            ],
+            [
+              -0.15054702758789062,
+              51.503186376638006
+            ],
+            [
+              -0.15089035034179688,
+              51.50412134171919
+            ],
+            [
+              -0.15054702758789062,
+              51.50470902423732
+            ],
+            [
+              -0.15106201171874997,
+              51.50593779046549
+            ],
+            [
+              -0.15501022338867188,
+              51.50938350161162
+            ],
+            [
+              -0.15616893768310547,
+              51.5100245354003
+            ],
+            [
+              -0.15840053558349607,
+              51.51363018240385
+            ]
+          ]
+        ]
+      }
+    }
+    
+  ]
+}

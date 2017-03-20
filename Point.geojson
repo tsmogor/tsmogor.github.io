@@ -1,0 +1,138 @@
+{
+  "type": "FeatureCollection",
+  "features": 
+  [
+	{
+		"properties" : {
+			"Number_of_Vehicles" : 1,
+			"Light_Conditions" : 1,
+			"Time" : "0:12:55",
+			"Local_Authority_(Highway)" : "E09000020",
+			"Longitude" : -0.192366,
+			"Road_Type" : 2,
+			"Accident_Severity" : 3,
+			"Location_Easting_OSGR" : 525590,
+			"Weather_Conditions" : 2,
+			"Date" : "11/01/2005",
+			"Urban_or_Rural_Area" : true,
+			"1st_Road_Number" : 0,
+			"Special_Conditions_at_Site" : 0,
+			"Pedestrian_Crossing-Human_Control" : false,
+			"Location_Northing_OSGR" : 178520,
+			"Did_Police_Officer_Attend_Scene_of_Accident" : 1,
+			"Junction_Detail" : 3,
+			"Road_Surface_Conditions" : 2,
+			"1st_Road_Class" : 6,
+			"2nd_Road_Class" : 3,
+			"Latitude" : 51.491632,
+			"Number_of_Casualties" : 1,
+			"Local_Authority_(District)" : 12,
+			"LSOA_of_Accident_Location" : "E01002849",
+			"2nd_Road_Number" : 3220,
+			"Carriageway_Hazards" : 0,
+			"Accident_Index" : "200501BS00015",
+			"Junction_Control" : 4,
+			"Day_of_Week" : 3,
+			"Speed_limit" : 30,
+			"Police_Force" : true,
+			"Pedestrian_Crossing-Physical_Facilities" : 1
+		},
+		"geometry" : {
+			"coordinates" : [
+				-0.192366,
+				51.491632
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature"
+	},
+	{
+		"properties" : {
+			"Number_of_Vehicles" : 1,
+			"Light_Conditions" : 1,
+			"Time" : "0:17:42",
+			"Local_Authority_(Highway)" : "E09000020",
+			"Longitude" : -0.19117,
+			"Road_Type" : 6,
+			"Accident_Severity" : 2,
+			"Location_Easting_OSGR" : 525680,
+			"Weather_Conditions" : 2,
+			"Date" : "04/01/2005",
+			"Urban_or_Rural_Area" : true,
+			"1st_Road_Number" : 3218,
+			"Special_Conditions_at_Site" : 0,
+			"Pedestrian_Crossing-Human_Control" : false,
+			"Location_Northing_OSGR" : 178240,
+			"Did_Police_Officer_Attend_Scene_of_Accident" : 1,
+			"Junction_Detail" : 0,
+			"Road_Surface_Conditions" : 2,
+			"1st_Road_Class" : 3,
+			"2nd_Road_Class" : -1,
+			"Latitude" : 51.489096,
+			"Number_of_Casualties" : 1,
+			"Local_Authority_(District)" : 12,
+			"LSOA_of_Accident_Location" : "E01002849",
+			"2nd_Road_Number" : 0,
+			"Carriageway_Hazards" : 0,
+			"Accident_Index" : "200501BS00001",
+			"Junction_Control" : -1,
+			"Day_of_Week" : 3,
+			"Speed_limit" : 30,
+			"Police_Force" : true,
+			"Pedestrian_Crossing-Physical_Facilities" : 1
+		},
+		"geometry" : {
+			"coordinates" : [
+				-0.19117,
+				51.489096
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature"
+	},
+	{
+		"properties" : {
+			"Number_of_Vehicles" : 2,
+			"Light_Conditions" : 1,
+			"Time" : "0:13:15",
+			"Local_Authority_(Highway)" : "E09000020",
+			"Longitude" : -0.192771,
+			"Road_Type" : 6,
+			"Accident_Severity" : 3,
+			"Location_Easting_OSGR" : 525570,
+			"Weather_Conditions" : 2,
+			"Date" : "29/01/2005",
+			"Urban_or_Rural_Area" : true,
+			"1st_Road_Number" : 3220,
+			"Special_Conditions_at_Site" : 0,
+			"Pedestrian_Crossing-Human_Control" : false,
+			"Location_Northing_OSGR" : 178190,
+			"Did_Police_Officer_Attend_Scene_of_Accident" : 3,
+			"Junction_Detail" : 6,
+			"Road_Surface_Conditions" : 2,
+			"1st_Road_Class" : 3,
+			"2nd_Road_Class" : 3,
+			"Latitude" : 51.488671,
+			"Number_of_Casualties" : 2,
+			"Local_Authority_(District)" : 12,
+			"LSOA_of_Accident_Location" : "E01002849",
+			"2nd_Road_Number" : 3218,
+			"Carriageway_Hazards" : 0,
+			"Accident_Index" : "200501BS00033",
+			"Junction_Control" : 2,
+			"Day_of_Week" : 7,
+			"Speed_limit" : 30,
+			"Police_Force" : true,
+			"Pedestrian_Crossing-Physical_Facilities" : 5
+		},
+		"geometry" : {
+			"coordinates" : [
+				-0.192771,
+				51.488671
+			],
+			"type" : "Point"
+		},
+		"type" : "Feature"
+	}
+]
+}
